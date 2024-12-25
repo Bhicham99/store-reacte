@@ -1,0 +1,21 @@
+*{
+  box-sizing: border-box;
+}
+.Carte{
+  width: 3rem;
+  height: 3rem;
+  position: relative;
+}
+.Carte div {
+  border-radius: 50%;
+  color: whit;
+  width: 1.5rem;
+  height: 1.5rem;
+  bottom: 0;
+  right: 0;
+  transform: translate(25%,25%);
+}
+
+.Searsh{
+  margin-bottom: 20px;
+}
